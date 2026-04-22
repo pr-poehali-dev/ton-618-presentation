@@ -36,6 +36,7 @@ const slides: Slide[] = [
           <p className="text-white/80 text-sm leading-relaxed">Реферат по астрономии</p>
           <div className="accent-line my-2" />
           <p className="neon-text-cyan orbitron text-xs tracking-widest uppercase">Ученик 9Б класса</p>
+          <p className="text-white font-medium text-sm mt-1">Николаенко Илья</p>
           <p className="text-white/60 text-xs mt-1">Апрель 2026 г.</p>
         </div>
         <div className="flex gap-4 text-xs text-white/40">
